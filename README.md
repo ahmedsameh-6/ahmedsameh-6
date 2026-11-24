@@ -15,4 +15,4 @@ Computer Science student at the **Faculty of Computing and Artificial Intelligen
 Backend development → Cloud and DevOps
 
 ## 📫 Connect
-[LinkedIn](linkedin.com/in/ahmed-sameh-bb4ba4451)
+[LinkedIn](https://linkedin.com/in/ahmed-sameh-bb4ba4451)
