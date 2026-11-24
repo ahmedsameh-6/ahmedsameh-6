@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ahmed Sameh 👋
 
-<!--
-**ahmedsameh-6/ahmedsameh-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the **Faculty of Computers and Artificial Intelligence, Cairo University**, focused on backend engineering and cloud infrastructure.
 
-Here are some ideas to get you started:
+## 🎯 Current focus
+- Building strong backend foundations: Git, Linux, Python, SQL, then FastAPI
+- Next goal: deploy a real project to the cloud, then CI/CD and infrastructure as code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages:** C++ (object-oriented programming)
+- **Networking:** Cisco CCNA certified
+- **Tools:** Git, GitHub (team projects at university)
+
+## 📚 Learning path
+Backend development → Cloud and DevOps
+
+## 📫 Connect
+LinkedIn link coming soon
