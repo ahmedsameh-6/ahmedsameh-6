@@ -8,7 +8,7 @@ Computer Science student at the **Faculty of Computing and Artificial Intelligen
 
 ## 🛠 Skills
 - **Languages:** C++ (object-oriented programming)
-- **Networking:** Cisco CCNA certified
+- **Networking:** Networking (Cisco NetAcad CCNA)
 - **Tools:** Git, GitHub 
 
 ## 📚 Learning path
